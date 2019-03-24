@@ -80,7 +80,7 @@ emmm，大概就是酱紫了。
 ### 一键操作脚本
 
 ![主](https://github.com/xxxxxxl/MGKProject/blob/master/screen/main.png)
-![列表](https://github.com/xxxxxxl/MGKProject/blob/master/screen/list.png)
+![列表](https://github.com/xxxxxxl/MGKProject/blob/master/screen/list.jpg)
 ![添加](https://github.com/xxxxxxl/MGKProject/blob/master/screen/add.png)
 
 需要脚本可联系作者,（备注MGK） v:xiaolongonly
