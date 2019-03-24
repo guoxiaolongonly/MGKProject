@@ -90,7 +90,7 @@ emmm，大概就是酱紫了。
 
 如果您想玩这类的资金盘项目或者想写类似的脚本可以联系作者邮箱：xiaolongonly@gmail.com
 
-如果您想玩这个盘可以直接点击链接：http://t.cn/EtsLn8e 
+如果您想玩这个盘可以直接点击链接：http://t.cn/EtETGIH 
 
 或者扫码下载注册
 
