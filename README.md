@@ -94,4 +94,4 @@ emmm，大概就是酱紫了。
 
 或者扫码下载注册
 
-![二维码](https://github.com/xxxxxxl/MGKProject/blob/master/screen/qrcode.png)
+![二维码](https://github.com/xxxxxxl/MGKProject/blob/master/screen/qrcode.jpg)
